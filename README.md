@@ -45,6 +45,5 @@ sudo nano /etc/zabbix/zabbix_server.conf
 sudo systemctl restart zabbix-server apache2
 sudo systemctl enable zabbix-server apache2
 
-
-![Задание1(2)Забикс](https://github.com/user-attachments/assets/11dd036d-915b-4b1a-bf42-2cf15574dd5c)
-![Задание1(3)Забикс](https://github.com/user-attachments/assets/b3946c8c-32a5-43dd-abb9-e8eadb5a2ade)
+![Задание1(2)Забикс](https://github.com/user-attachments/assets/072f1c7f-2fa4-40c3-b4a9-fd9f2c1da63b)
+![Задание1(3)Забикс](https://github.com/user-attachments/assets/ec0e2ad2-fde0-4d56-a08f-0b3a0f3993f0)
