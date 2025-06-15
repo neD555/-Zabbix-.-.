@@ -28,4 +28,3 @@ sudo systemctl enable zabbix-server apache2
 
 ![Задание1(2)Забикс](https://github.com/user-attachments/assets/11dd036d-915b-4b1a-bf42-2cf15574dd5c)
 ![Задание1(3)Забикс](https://github.com/user-attachments/assets/b3946c8c-32a5-43dd-abb9-e8eadb5a2ade)
-
